@@ -16,7 +16,7 @@ There are 10 different Versions for diffuser-brightness 0,1 mm - 1,0 mm.
 * Outer diameter: approx. 94 mm
 * Clip height outside: approx. 21 mm
 
-Requirements:
+##### Requirements:
 * 3D printer 
 * Filament of your choice
 
