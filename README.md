@@ -1,15 +1,15 @@
 # Diffuser for Microscope Ringlight
 3D-printable Diffuser for Microscope Ringlight (created with Rhino 6)
 
-## 3D Ringlight Diffuser
+#### Diffuser
 
 The Diffuser consist of a single part that can be clipped onto the ringlight.
 
-I use the microscope-camera to examine electronic components or for micro soldering of very small parts. 
+I use a cheap HDMI-Microscope-Camera to examine electronic components or for micro-soldering of very small parts. 
 The bright white ringlight is too bright and reflects on the soldering edges or on the PCB surface. 
-To make the light shine softer I constructed this diffuser. 
+To make the light shine softer I constructed this 3D printable diffuser. 
 
-There are 10 different Versions for diffuser-brightness 0,1 mm - 1,0 mm.
+There are 10 different Versions for diffuser-brightness 0,1 mm - 1,0 mm. Try out different colors.
 
 #### Ringlight 
 * Inner diameter: approx. 61 mm
