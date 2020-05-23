@@ -9,7 +9,7 @@ I use a cheap HDMI-Microscope-Camera to examine electronic components or for mic
 The bright white ringlight is too bright and reflects on the soldering edges or on the PCB surface. 
 To make the light shine softer I constructed this 3D printable diffuser. 
 
-There are 10 different Versions for diffuser-brightness 0,1 mm - 1,0 mm. Try out different colors.
+There are 11 different Versions for diffuser-brightness 0,1 mm - 1,0 mm and 15 mm. Try out different colors.
 
 #### Ringlight 
 * Inner diameter: approx. 61 mm
@@ -22,3 +22,4 @@ There are 10 different Versions for diffuser-brightness 0,1 mm - 1,0 mm. Try out
 
 #### View
 ![Example](Iso1.jpg)
+![Example](image1.jpg)
