@@ -22,4 +22,4 @@ There are 11 different Versions for diffuser-brightness 0,1 mm - 1,0 mm and 15 m
 
 #### View
 <img src="Iso1.jpg" width="500" align="center"> 
-<img src="image1.jpg width="500" align="center")
+<img src="image1.jpg" width="500" align="center")
